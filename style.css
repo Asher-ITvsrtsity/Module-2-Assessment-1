@@ -192,3 +192,9 @@ textarea{
     margin: 12px 0;
     padding: 8px 0;
 }
+
+/*================================ Source ===================================*/
+a.source{
+    font-size: 10px;
+    text-decoration: none;
+}
